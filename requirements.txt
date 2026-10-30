@@ -1,0 +1,16 @@
+# requirements.txt
+# KI-Kern und RAG-System
+langchain
+langchain-google-genai
+chromadb
+pydantic
+
+# Web-Server und API-Framework
+fastapi
+uvicorn
+
+# Datenverarbeitung (Falls später benötigt, optional)
+numpy
+pandas
+scikit-learn
+matplotlib

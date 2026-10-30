@@ -1,0 +1,17 @@
+# Modul: Executive Summary und Investorenkommunikation
+Die Executive Summary muss präzise und überzeugend sein, um die Aufmerksamkeit von Investoren und Banken zu gewinnen. Sie sollte nie länger als zwei Seiten sein. Der Aufbau folgt einer strikten Logik: 1. Das Problem, 2. Die Lösung (Ihr Produkt/Service), 3. Marktgröße und Traktion, 4. Gründerteam-Kompetenz und 5. Die finanzielle Zusammenfassung (Break-Even, Kapitalbedarf). Deutsche VCs legen besonderen Wert auf die Marktpositionierung im DACH-Raum und die Compliance mit lokalen Datenschutzstandards.
+
+# Modul: Finanzielle Projektionen und Benchmarks (SaaS)
+Für SaaS- oder Abonnement-Modelle sind die Kennzahlen ARR (Annual Recurring Revenue) und MRR (Monthly Recurring Revenue) obligatorisch. Eine gesunde Churn Rate (Kundenabwanderung) liegt in der Seed-Phase typischerweise unter 8% pro Jahr für B2B-Kunden. Die Kundenakquisitionskosten (CAC) dürfen in der Regel nicht mehr als 33% des Customer Lifetime Value (CLV) betragen, um ein tragfähiges Geschäftsmodell zu signalisieren. Ein CLV/CAC-Verhältnis von 3:1 gilt als exzellenter Indikator für Skalierbarkeit.
+
+# Modul: Kapitalbedarf und Liquiditätsplanung
+Die Planung des Kapitalbedarfs muss immer eine Runway (Liquiditätsreserve) von mindestens 12 Monaten ab der letzten Finanzierungsrunde sicherstellen. Dies beinhaltet einen Puffer von 20% für unvorhergesehene Betriebsausgaben (Contingency Buffer). Der Break-Even-Punkt sollte nicht nur monetär, sondern auch zeitlich klar definiert werden (z.B. Monat 28 nach Gründung). Liquiditätspläne werden in einem rollierenden 12-Monats-Schema präsentiert, wobei die ersten drei Monate wöchentlich detailliert werden müssen.
+
+# Modul: Marktanalyse und Wettbewerb
+Eine fundierte Marktanalyse differenziert zwischen TAM (Total Addressable Market), SAM (Serviceable Available Market) und SOM (Serviceable Obtainable Market). Investoren fokussieren sich primär auf den SOM, den realistisch erreichbaren Marktanteil in den ersten 3 Jahren. Der Wettbewerbsvorteil (USP) muss durch Patente, einzigartige Datenbestände (Data Moat) oder signifikante Netzwerkeffekte (Network Effects) untermauert werden. Eine einfache Preisdifferenzierung allein gilt nicht als nachhaltiger Vorteil.
+
+# Modul: Go-to-Market (GTM) und Vertriebsstrategie
+Die GTM-Strategie für innovative Produkte sollte Phasenweise erfolgen: 1. Alpha-/Beta-Phase (Fokus auf Produkt-Feedback, 10-20 Early Adopter), 2. Early Majority (Fokus auf Vertriebskanäle und Skalierung), 3. Late Majority (Fokus auf Kostenoptimierung und Prozessstandardisierung). Vertriebskanäle sollten klar auf ihre Effizienz hin bewertet werden (z.B. Lead-Kosten von Google Ads vs. LinkedIn-Kampagnen).
+
+# Modul: Rechtliche und Compliance-Aspekte (DACH)
+Geschäftspläne, die den Einsatz von Kundendaten oder digitalen Prozessen beinhalten, müssen explizit die Einhaltung der EU-DSGVO (Datenschutz-Grundverordnung) bestätigen. Bei der Gründung in Deutschland ist die Rechtsform (GmbH, UG) relevant für Haftungsfragen und muss im Plan begründet werden. Internationale Expansionspläne müssen die lokale Registrierung von IP (Intellectual Property) in den Zielmärkten umfassen.

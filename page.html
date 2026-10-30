@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dokument-Generator | BusinessDoc AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">BusinessDoc AI</div>
+        <nav>
+            <a href="index.html">Homepage</a>
+            <a href="#" class="cta-button">Profil</a>
+        </nav>
+    </header>
+
+    <main class="app-container">
+        <section class="generator-card">
+            <h2>Dokument erstellen 🚀</h2>
+            <p class="info-text">Füllen Sie die Felder präzise aus, um die Qualität der KI-Analyse zu maximieren.</p>
+            <form id="docForm">
+                <div class="form-group">
+                    <label for="docType">Dokumenttyp wählen:</label>
+                    <select id="docType" name="document_type" required>
+                        <option value="Businessplan">Businessplan (Executive Summary)</option>
+                        <option value="Finanzplan">Detaillierter Finanzplan</option>
+                        <option value="Marketingplan">Marketing- und Vertriebsplan</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="industry">Ihre Branche & Zielgruppe:</label>
+                    <input type="text" id="industry" name="industry" placeholder="z.B. B2B SaaS für KMUs" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="keyFeatures">Wichtige Infos & Ziele (Produkt, Umsatz, Vision):</label>
+                    <textarea id="keyFeatures" name="key_features" rows="5" placeholder="Geben Sie hier Ihre wichtigsten Punkte ein."></textarea>
+                </div>
+                
+                <button type="submit" id="generateButton">GENERIEREN</button>
+            </form>
+        </section>
+
+        <section class="output-section">
+            <h3>Generiertes Dokument</h3>
+            <div id="loadingIndicator" class="hidden">Wird generiert...</div>
+            <div id="resultOutput" class="document-output">
+                Ihr professionelles Dokument wird hier in wenigen Augenblicken erscheinen.
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
